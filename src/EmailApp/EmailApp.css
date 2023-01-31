@@ -1,12 +1,27 @@
 body {
-   background-color: white;
-   text-align: center;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
-header {
-   background-color: mediumblue;
-   color: white;
-   padding: 20px;
+.box {
+  margin-top: auto;
+}
 
-   <link rel="EmailApp.html" type="text/css" href="EmailApp.css">
+.description {
+  text-align: center;
+  width: 50%;
+  line-height: 1.5;
+}
+
+.new-user-btn {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.box {
+    margin-top: 20px;
 }
