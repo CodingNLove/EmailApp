@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: #FFEFF1;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -7,21 +7,18 @@ body {
     height: 100vh;
 }
 
-.box {
-  margin-top: auto;
-}
+.description-container{
+text-align: center;
 
-.description {
-  text-align: center;
-  width: 50%;
-  line-height: 1.5;
+}
+.description-container {
+    text-align: center;
+    width: 50%;
+    line-height: 1.5;
+    margin-bottom: 20px;
 }
 
 .new-user-btn {
-  font-weight: bold;
-  text-transform: uppercase;
-}
-
-.box {
-    margin-top: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
 }
