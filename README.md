@@ -1,4 +1,4 @@
-# EmailApp1
+# EmailApp
 Welcome to my first project. 
 The concept behind my project, EmailApp1, was to act as an IT Support Administrator responsible for creating email accounts for new hires.
 
